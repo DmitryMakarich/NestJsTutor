@@ -3,3 +3,4 @@
 .env
 .clinic
 .vscode
+/mongo/mongo-data-4.4
